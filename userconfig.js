@@ -15,7 +15,7 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "personal",
+      name: "自分",
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
@@ -32,4 +32,16 @@ const default_config = {
               url: "https://www.reddit.com/",
               icon: "brand-reddit",
               icon_color: palette.peach,
+            },
+            {
+              name: "youtube",
+              url: "https://www.youtube.com/",
+              icon: "brand-youtube",
+              icon_color: palette.red,
+            },
+            {
+              name: "twitch",
+              url: "https://www.twitch.tv/",
+              icon: "brand-twitch",
+              icon_color: palette.blue,
             },
