@@ -45,3 +45,11 @@ const default_config = {
               icon: "brand-twitch",
               icon_color: palette.blue,
             },
+            {
+              name: "lemmy",
+              url: "https://lemmy.ml/",
+              icon: "users",
+              icon_color: palette.sky,
+            },
+          ],
+        },
