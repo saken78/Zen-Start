@@ -53,3 +53,32 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "職場",
+          links: [
+            {
+              name: "mail",
+              url: "https://mail.proton.me",
+              icon: "brand-campaignmonitor",
+              icon_color: palette.green,
+            },
+            {
+              name: "calendar",
+              url: "https://calendar.proton.me",
+              icon: "calendar-filled",
+              icon_color: palette.peach,
+            },
+            {
+              name: "vault",
+              url: "https://vault.bitwarden.com",
+              icon: "lock",
+              icon_color: palette.red,
+            },
+            {
+              name: "drive",
+              url: "https://drive.proton.me",
+              icon: "cloud",
+              icon_color: palette.blue,
+            },
+          ],
+        },
