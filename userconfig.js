@@ -180,3 +180,32 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "学ぶ",
+          links: [
+            {
+              name: "leetcode",
+              url: "https://leetcode.com",
+              icon: "code-plus",
+              icon_color: palette.green,
+            },
+            {
+              name: "stackoverflow",
+              url: "https://stackoverflow.com",
+              icon: "brand-stackoverflow",
+              icon_color: palette.peach,
+            },
+            {
+              name: "w3schools",
+              url: "https://www.w3schools.com/",
+              icon: "school",
+              icon_color: palette.red,
+            },
+            {
+              name: "exercism",
+              url: "https://exercism.org/",
+              icon: "calculator",
+              icon_color: palette.blue,
+            },
+          ],
+        },
