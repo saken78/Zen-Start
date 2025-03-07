@@ -147,3 +147,36 @@ const default_config = {
         },
       ],
     },
+    {
+      name: "開発者",
+      background_url: "src/img/banners/retro-mario.png",
+      categories: [
+        {
+          name: "メディア",
+          links: [
+            {
+              name: "github",
+              url: "https://github.com",
+              icon: "brand-github",
+              icon_color: palette.green,
+            },
+            {
+              name: "dev-community",
+              url: "https://dev.to/",
+              icon: "article",
+              icon_color: palette.peach,
+            },
+            {
+              name: "wakatime",
+              url: "https://wakatime.com",
+              icon: "24-hours",
+              icon_color: palette.red,
+            },
+            {
+              name: "dotfyle",
+              url: "https://dotfyle.com/",
+              icon: "puzzle",
+              icon_color: palette.blue,
+            },
+          ],
+        },
