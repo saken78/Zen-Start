@@ -19,3 +19,17 @@ const default_config = {
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
+          name: "メディア",
+          links: [
+            {
+              name: "mastodon",
+              url: "https://mastodon.social",
+              icon: "brand-mastodon",
+              icon_color: palette.green,
+            },
+            {
+              name: "reddit",
+              url: "https://www.reddit.com/",
+              icon: "brand-reddit",
+              icon_color: palette.peach,
+            },
