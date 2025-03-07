@@ -188,7 +188,7 @@ const default_config = {
           ],
         },
         {
-          name: "learn",
+          name: "学ぶ",
           links: [
             {
               name: "leetcode",
@@ -217,7 +217,7 @@ const default_config = {
           ],
         },
         {
-          name: "tools",
+          name: "ツール",
           links: [
             {
               name: "regex101",
@@ -276,7 +276,7 @@ const default_config = {
           ],
         },
         {
-          name: "docs",
+          name: "ドキュメント",
           links: [
             {
               name: "devdocs",
@@ -301,11 +301,11 @@ const default_config = {
       ],
     },
     {
-      name: "gaming",
-      background_url: "src/img/banners/doom-slayer.png",
+      name: "ゲーム",
+      background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
-          name: "stores",
+          name: "店舗",
           links: [
             {
               name: "steam",
@@ -328,7 +328,7 @@ const default_config = {
           ],
         },
         {
-          name: "deals",
+          name: "お得情報",
           links: [
             {
               name: "GG Deals",
@@ -345,7 +345,7 @@ const default_config = {
           ],
         },
         {
-          name: "discussion",
+          name: "ディスカッション",
           links: [
             {
               name: "r/gaming",
