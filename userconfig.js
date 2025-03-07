@@ -1,11 +1,12 @@
-const palette = frappe;
+// latte / frappe / macchiato / mocha
+const palette = macchiato;
 
 const default_config = {
-  overridestorage: true,
+  overrideStorage: true,
   temperature: {
-    location: "Surabaya",
+    location: "Alicante",
     scale: "C",
- },
+  },
   clock: {
     format: "h:i p",
     iconColor: palette.maroon,
@@ -15,11 +16,11 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "自分",
-      background_url: "src/img/banners/cbg-15.gif",
+      name: "personal",
+      background_url: "src/img/banners/window-room.png",
       categories: [
         {
-          name: "メディア",
+          name: "media/rrss",
           links: [
             {
               name: "mastodon",
@@ -46,6 +47,12 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
+              name: "hacker-news",
+              url: "https://news.ycombinator.com/ask",
+              icon: "news",
+              icon_color: palette.mauve,
+            },
+            {
               name: "lemmy",
               url: "https://lemmy.ml/",
               icon: "users",
@@ -54,7 +61,7 @@ const default_config = {
           ],
         },
         {
-          name: "職場",
+          name: "workspace",
           links: [
             {
               name: "mail",
@@ -83,7 +90,7 @@ const default_config = {
           ],
         },
         {
-          name: "大学生",
+          name: "school",
           links: [
             {
               name: "aules",
@@ -106,7 +113,7 @@ const default_config = {
           ],
         },
         {
-          name: "仕事",
+          name: "job",
           links: [
             {
               name: "linkedin",
@@ -117,7 +124,42 @@ const default_config = {
           ],
         },
         {
-          name: "サービス",
+          name: "shopping",
+          links: [
+            {
+              name: "pccomponentes",
+              url: "https://www.pccomponentes.com/",
+              icon: "device-desktop",
+              icon_color: palette.green,
+            },
+            {
+              name: "amazon",
+              url: "https://www.amazon.es/",
+              icon: "brand-amazon",
+              icon_color: palette.peach,
+            },
+            {
+              name: "amazon-tracker",
+              url: "https://camelcamelcamel.com/",
+              icon: "chart-area",
+              icon_color: palette.red,
+            },
+            {
+              name: "chollometro",
+              url: "https://www.chollometro.com/",
+              icon: "basket",
+              icon_color: palette.blue,
+            },
+            {
+              name: "kimovil",
+              url: "https://www.kimovil.com/en/",
+              icon: "cell-signal-5",
+              icon_color: palette.mauve,
+            },
+          ],
+        },
+        {
+          name: "services",
           links: [
             {
               name: "portainer",
@@ -148,11 +190,11 @@ const default_config = {
       ],
     },
     {
-      name: "開発者",
+      name: "dev",
       background_url: "src/img/banners/retro-mario.png",
       categories: [
         {
-          name: "メディア",
+          name: "media",
           links: [
             {
               name: "github",
@@ -181,7 +223,7 @@ const default_config = {
           ],
         },
         {
-          name: "学ぶ",
+          name: "learn",
           links: [
             {
               name: "leetcode",
