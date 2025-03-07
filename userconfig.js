@@ -16,6 +16,6 @@ const default_config = {
   tabs: [
     {
       name: "personal",
-      background_url: "src/img/banners/cbg-06.gif",
+      background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
