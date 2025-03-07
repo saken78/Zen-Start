@@ -82,3 +82,26 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "大学生",
+          links: [
+            {
+              name: "aules",
+              url: "https://aules.edu.gva.es/semipresencial/my/index.php?lang=es",
+              icon: "school",
+              icon_color: palette.green,
+            },
+            {
+              name: "outlook",
+              url: "https://outlook.office.com/mail/",
+              icon: "inbox",
+              icon_color: palette.peach,
+            },
+            {
+              name: "aws",
+              url: "https://awsacademy.instructure.com/",
+              icon: "brand-aws",
+              icon_color: palette.red,
+            },
+          ],
+        },
