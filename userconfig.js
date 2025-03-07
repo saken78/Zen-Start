@@ -113,7 +113,7 @@ const default_config = {
           ],
         },
         {
-          name: "job",
+          name: "仕事",
           links: [
             {
               name: "linkedin",
@@ -124,42 +124,7 @@ const default_config = {
           ],
         },
         {
-          name: "shopping",
-          links: [
-            {
-              name: "pccomponentes",
-              url: "https://www.pccomponentes.com/",
-              icon: "device-desktop",
-              icon_color: palette.green,
-            },
-            {
-              name: "amazon",
-              url: "https://www.amazon.es/",
-              icon: "brand-amazon",
-              icon_color: palette.peach,
-            },
-            {
-              name: "amazon-tracker",
-              url: "https://camelcamelcamel.com/",
-              icon: "chart-area",
-              icon_color: palette.red,
-            },
-            {
-              name: "chollometro",
-              url: "https://www.chollometro.com/",
-              icon: "basket",
-              icon_color: palette.blue,
-            },
-            {
-              name: "kimovil",
-              url: "https://www.kimovil.com/en/",
-              icon: "cell-signal-5",
-              icon_color: palette.mauve,
-            },
-          ],
-        },
-        {
-          name: "services",
+          name: "サービス",
           links: [
             {
               name: "portainer",
@@ -190,7 +155,7 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "開発者",
       background_url: "src/img/banners/retro-mario.png",
       categories: [
         {
