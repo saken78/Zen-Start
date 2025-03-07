@@ -156,7 +156,7 @@ const default_config = {
     },
     {
       name: "開発者",
-      background_url: "src/img/banners/retro-mario.png",
+      background_url: "src/img/banners/cbg-08.gif",
       categories: [
         {
           name: "media",
