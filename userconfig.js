@@ -90,7 +90,7 @@ const default_config = {
           ],
         },
         {
-          name: "school",
+          name: "大学生",
           links: [
             {
               name: "aules",
