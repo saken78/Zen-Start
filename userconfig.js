@@ -159,7 +159,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-08.gif",
       categories: [
         {
-          name: "media",
+          name: "メディア",
           links: [
             {
               name: "github",
