@@ -105,3 +105,14 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "仕事",
+          links: [
+            {
+              name: "linkedin",
+              url: "https://www.linkedin.com/",
+              icon: "brand-linkedin",
+              icon_color: palette.green,
+            },
+          ],
+        },
