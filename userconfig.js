@@ -16,11 +16,11 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "personal",
-      background_url: "src/img/banners/window-room.png",
+      name: "個人的",
+      background_url: "src/img/banners/cbg-07.gif",
       categories: [
         {
-          name: "media/rrss",
+          name: "メディア",
           links: [
             {
               name: "mastodon",
