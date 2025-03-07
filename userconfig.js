@@ -5,3 +5,13 @@ const default_config = {
   temperature: {
     location: "Surabaya",
     scale: "C",
+ },
+  clock: {
+    format: "h:i p",
+    iconColor: palette.maroon,
+  },
+  disabled: [],
+  fastlink: "",
+  openLastVisitedTab: false,
+  tabs: [
+    {
