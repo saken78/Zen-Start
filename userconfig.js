@@ -380,7 +380,7 @@ const default_config = {
           ],
         },
         {
-          name: "emulation/download",
+          name: "エミュレーション / ダウンロード",
           links: [
             {
               name: "roms megathread",
@@ -403,7 +403,7 @@ const default_config = {
           ],
         },
         {
-          name: "mods",
+          name: "改造",
           links: [
             {
               name: "nexus mods",
@@ -426,7 +426,7 @@ const default_config = {
           ],
         },
         {
-          name: "rating/tracking",
+          name: "評価 / 追跡",
           links: [
             {
               name: "opencritic",
@@ -451,7 +451,7 @@ const default_config = {
       ],
     },
     {
-      name: "music",
+      name: "音楽",
       background_url: "src/img/banners/lofi.jpg",
       categories: [
         {
