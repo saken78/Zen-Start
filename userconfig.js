@@ -61,7 +61,7 @@ const default_config = {
           ],
         },
         {
-          name: "workspace",
+          name: "ワークスペース",
           links: [
             {
               name: "mail",
