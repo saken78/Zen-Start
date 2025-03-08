@@ -592,7 +592,7 @@ const default_config = {
     },
     {
       name: "美術",
-      background_url: "src/img/banners/sky.png",
+      background_url: "src/img/banners/giphy.gif",
       categories: [
         {
           name: "media",
