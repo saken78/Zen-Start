@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
     gif.alt = "GIF Animasi";
     gif.style.width = "90px"; // Sesuaikan ukuran GIF
     gif.style.position = "fixed"; // Agar tetap di satu posisi
-    gif.style.top = "39px"; // Jarak dari atas
-    gif.style.right = "50px"; // Jarak dari kanan
+    gif.style.top = "44px"; // Jarak dari atas
+    gif.style.right = "58px"; // Jarak dari kanan
     gif.style.pointerEvents = "none"; // Biar tidak menghalangi klik
     gif.style.zIndex = "9999"; // Pastikan di atas elemen lain
 
