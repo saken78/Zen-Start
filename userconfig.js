@@ -452,7 +452,7 @@ const default_config = {
     },
     {
       name: "音楽",
-      background_url: "src/img/banners/ghibli04.gif",
+      background_url: "src/img/banners/ghibli4.gif",
       categories: [
         {
           name: "listen",
