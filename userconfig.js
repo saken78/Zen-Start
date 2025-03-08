@@ -595,7 +595,7 @@ const default_config = {
       background_url: "src/img/banners/giphy.gif",
       categories: [
         {
-          name: "media",
+          name: "メディア",
           links: [
             {
               name: "unsplash",
@@ -624,7 +624,7 @@ const default_config = {
           ],
         },
         {
-          name: "palettes",
+          name: "パレット",
           links: [
             {
               name: "catppuccin",
@@ -653,7 +653,7 @@ const default_config = {
           ],
         },
         {
-          name: "tools",
+          name: "ツール",
           links: [
             {
               name: "convert-image-palette",
@@ -690,11 +690,11 @@ const default_config = {
       ],
     },
     {
-      name: "tools",
+      name: "ツール",
       background_url: "src/img/banners/tokyo.png",
       categories: [
         {
-          name: "general",
+          name: "一般的な",
           links: [
             {
               name: "alternative-to",
@@ -753,7 +753,7 @@ const default_config = {
           ],
         },
         {
-          name: "piracy",
+          name: "海賊行為",
           links: [
             {
               name: "fmhy",
@@ -777,7 +777,7 @@ const default_config = {
           ],
         },
         {
-          name: "privacy",
+          name: "プライバシー",
           links: [
             {
               name: "adblock-test",
@@ -812,7 +812,7 @@ const default_config = {
           ],
         },
         {
-          name: "security",
+          name: "安全",
           links: [
             {
               name: "cybersecurity-guide",
@@ -853,7 +853,7 @@ const default_config = {
           ],
         },
         {
-          name: "ai",
+          name: "人工知能",
           links: [
             {
               name: "chatgpt",
