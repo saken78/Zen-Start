@@ -1,4 +1,3 @@
-import "./tabs.component.css";
 
 
 class Links extends Component {
