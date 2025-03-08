@@ -1,3 +1,6 @@
+import "./tabs.component.css";
+
+
 class Links extends Component {
   constructor() {
     super();
