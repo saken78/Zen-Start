@@ -1,0 +1,22 @@
+.tabs-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%; /* Sesuaikan lebar sesuai kebutuhan */
+    text-align: center; /* Agar teks tab rata tengah */
+}
+
+.tabs-container button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.tabs-container button.active {
+    background-color: #555;
+}
