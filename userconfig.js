@@ -455,7 +455,7 @@ const default_config = {
       background_url: "src/img/banners/ghibli4.gif",
       categories: [
         {
-          name: "listen",
+          name: "リスニング",
           links: [
             {
               name: "spotify",
@@ -490,7 +490,7 @@ const default_config = {
           ],
         },
         {
-          name: "rating/tracking",
+          name: "評価/追跡",
           links: [
             {
               name: "AOTY",
@@ -519,7 +519,7 @@ const default_config = {
           ],
         },
         {
-          name: "discussion",
+          name: "議論",
           links: [
             {
               name: "r/musicproduction",
@@ -554,7 +554,7 @@ const default_config = {
           ],
         },
         {
-          name: "resources",
+          name: "リソース",
           links: [
             {
               name: "freesound",
@@ -591,7 +591,7 @@ const default_config = {
       ],
     },
     {
-      name: "art",
+      name: "美術",
       background_url: "src/img/banners/sky.png",
       categories: [
         {
