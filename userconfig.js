@@ -691,7 +691,7 @@ const default_config = {
     },
     {
       name: "ツール",
-      background_url: "src/img/banners/tokyo.png",
+      background_url: "src/img/banners/ghibli5.gif",
       categories: [
         {
           name: "一般的な",
