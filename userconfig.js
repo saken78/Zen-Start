@@ -16,11 +16,11 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "個人的",
+      name: "Personal",
       background_url: "src/img/banners/cbg-07.gif",
       categories: [
         {
-          name: "メディア",
+          name: "Media",
           links: [
             {
               name: "mastodon",
@@ -61,7 +61,7 @@ const default_config = {
           ],
         },
         {
-          name: "ワークスペース",
+          name: "Workspace",
           links: [
             {
               name: "mail",
@@ -90,7 +90,7 @@ const default_config = {
           ],
         },
         {
-          name: "大学生",
+          name: "Uni V",
           links: [
             {
               name: "aules",
@@ -113,7 +113,7 @@ const default_config = {
           ],
         },
         {
-          name: "仕事",
+          name: "Work",
           links: [
             {
               name: "linkedin",
