@@ -305,7 +305,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
-          name: "店舗",
+          name: "Shop",
           links: [
             {
               name: "steam",
@@ -328,7 +328,7 @@ const default_config = {
           ],
         },
         {
-          name: "お得情報",
+          name: "Special Offers",
           links: [
             {
               name: "GG Deals",
@@ -345,7 +345,7 @@ const default_config = {
           ],
         },
         {
-          name: "ディスカッション",
+          name: "Discussion",
           links: [
             {
               name: "r/gaming",
@@ -380,7 +380,7 @@ const default_config = {
           ],
         },
         {
-          name: "エミュレーション / ダウンロード",
+          name: "Emulation / Download",
           links: [
             {
               name: "roms megathread",
@@ -403,7 +403,7 @@ const default_config = {
           ],
         },
         {
-          name: "改造",
+          name: "Renovation",
           links: [
             {
               name: "nexus mods",
@@ -426,7 +426,7 @@ const default_config = {
           ],
         },
         {
-          name: "評価 / 追跡",
+          name: "Tracking",
           links: [
             {
               name: "opencritic",
@@ -451,7 +451,7 @@ const default_config = {
       ],
     },
     {
-      name: "音楽",
+      name: "Music",
       background_url: "src/img/banners/ghibli4.gif",
       categories: [
         {
