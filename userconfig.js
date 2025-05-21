@@ -124,7 +124,7 @@ const default_config = {
           ],
         },
         {
-          name: "サービス",
+          name: "Service",
           links: [
             {
               name: "portainer",
@@ -155,11 +155,11 @@ const default_config = {
       ],
     },
     {
-      name: "開発者",
+      name: "Developer",
       background_url: "src/img/banners/cbg-08.gif",
       categories: [
         {
-          name: "メディア",
+          name: "Media",
           links: [
             {
               name: "github",
@@ -188,7 +188,7 @@ const default_config = {
           ],
         },
         {
-          name: "学ぶ",
+          name: "Learn",
           links: [
             {
               name: "leetcode",
@@ -217,7 +217,7 @@ const default_config = {
           ],
         },
         {
-          name: "ツール",
+          name: "Tools",
           links: [
             {
               name: "regex101",
@@ -276,7 +276,7 @@ const default_config = {
           ],
         },
         {
-          name: "ドキュメント",
+          name: "Document",
           links: [
             {
               name: "devdocs",
@@ -301,7 +301,7 @@ const default_config = {
       ],
     },
     {
-      name: "ゲーム",
+      name: "Game",
       background_url: "src/img/banners/cbg-15.gif",
       categories: [
         {
