@@ -380,7 +380,7 @@ const default_config = {
           ],
         },
         {
-          name: "emulaion",
+          name: "emulation",
           links: [
             {
               name: "roms megathread",
@@ -455,7 +455,7 @@ const default_config = {
       background_url: "src/img/banners/ghibli4.gif",
       categories: [
         {
-          name: "リスニング",
+          name: "Listening",
           links: [
             {
               name: "spotify",
@@ -490,7 +490,7 @@ const default_config = {
           ],
         },
         {
-          name: "評価/追跡",
+          name: "Evaluation",
           links: [
             {
               name: "AOTY",
@@ -519,7 +519,7 @@ const default_config = {
           ],
         },
         {
-          name: "議論",
+          name: "Discussion",
           links: [
             {
               name: "r/musicproduction",
@@ -554,7 +554,7 @@ const default_config = {
           ],
         },
         {
-          name: "リソース",
+          name: "resources",
           links: [
             {
               name: "freesound",
@@ -591,11 +591,11 @@ const default_config = {
       ],
     },
     {
-      name: "美術",
+      name: "art",
       background_url: "src/img/banners/giphy.gif",
       categories: [
         {
-          name: "メディア",
+          name: "media",
           links: [
             {
               name: "unsplash",
@@ -624,7 +624,7 @@ const default_config = {
           ],
         },
         {
-          name: "パレット",
+          name: "palette",
           links: [
             {
               name: "catppuccin",
@@ -653,7 +653,7 @@ const default_config = {
           ],
         },
         {
-          name: "ツール",
+          name: "tools",
           links: [
             {
               name: "convert-image-palette",
@@ -690,11 +690,11 @@ const default_config = {
       ],
     },
     {
-      name: "ツール",
+      name: "Tools",
       background_url: "src/img/banners/ghibli5.gif",
       categories: [
         {
-          name: "一般的な",
+          name: "general",
           links: [
             {
               name: "alternative-to",
@@ -753,7 +753,7 @@ const default_config = {
           ],
         },
         {
-          name: "海賊行為",
+          name: "pirate",
           links: [
             {
               name: "fmhy",
@@ -777,7 +777,7 @@ const default_config = {
           ],
         },
         {
-          name: "プライバシー",
+          name: "privacy",
           links: [
             {
               name: "adblock-test",
@@ -812,7 +812,7 @@ const default_config = {
           ],
         },
         {
-          name: "安全",
+          name: "safety",
           links: [
             {
               name: "cybersecurity-guide",
@@ -853,7 +853,7 @@ const default_config = {
           ],
         },
         {
-          name: "人工知能",
+          name: "Ai",
           links: [
             {
               name: "chatgpt",
