@@ -90,7 +90,7 @@ const default_config = {
           ],
         },
         {
-          name: "Uni V",
+          name: "UniV",
           links: [
             {
               name: "aules",
@@ -328,7 +328,7 @@ const default_config = {
           ],
         },
         {
-          name: "Special Offers",
+          name: "Offers",
           links: [
             {
               name: "GG Deals",
@@ -380,7 +380,7 @@ const default_config = {
           ],
         },
         {
-          name: "Emulation / Download",
+          name: "emulaion",
           links: [
             {
               name: "roms megathread",
