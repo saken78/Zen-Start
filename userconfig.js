@@ -16,7 +16,7 @@ const default_config = {
   openLastVisitedTab: false,
   tabs: [
     {
-      name: "Personal",
+      name: "personal",
       background_url: "src/img/banners/cbg-07.gif",
       categories: [
         {
@@ -61,7 +61,7 @@ const default_config = {
           ],
         },
         {
-          name: "Workspace",
+          name: "workspace",
           links: [
             {
               name: "mail",
@@ -90,7 +90,7 @@ const default_config = {
           ],
         },
         {
-          name: "UniV",
+          name: "uniV",
           links: [
             {
               name: "aules",
@@ -113,7 +113,7 @@ const default_config = {
           ],
         },
         {
-          name: "Work",
+          name: "work",
           links: [
             {
               name: "linkedin",
@@ -155,7 +155,7 @@ const default_config = {
       ],
     },
     {
-      name: "Dev",
+      name: "dev",
       background_url: "src/img/banners/cbg-08.gif",
       categories: [
         {
@@ -188,7 +188,7 @@ const default_config = {
           ],
         },
         {
-          name: "Learn",
+          name: "learn",
           links: [
             {
               name: "leetcode",
